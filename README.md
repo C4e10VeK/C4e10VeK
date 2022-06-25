@@ -5,9 +5,9 @@
 - 📫 How to reach me:
   - Telegram: @che10vek_x
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C4e10VeK&count_private=false&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=C4e10VeK&count_private=false&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4e10VeK&hide=css,html,shell,javascript,c%23&theme=dracula&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C4e10VeK&hide=css,html,shell,javascript,c%23&theme=gruvbox&layout=compact)
 
 ---
 <div align="center"><img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" /> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain-wordmark.svg" /> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" /> <img width="30" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" /></div>
